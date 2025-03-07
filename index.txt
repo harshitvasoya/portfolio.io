@@ -1,0 +1,180 @@
+Your Name Here - System Security Expert
+
+  
+#---------- HEADER ----------#
+
+Your Name Here
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Blog
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Ethan's Photo
+
+3
+Years in Cybersecurity
+
+20+
+Projects Secured
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from New York
+
+Hello I'm
+
+Your Name Here
+
+System Security Expert
+
+Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Ethan's Photo
+
+alt = Ethan's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a System Security Expert
+
+I Secure Systems and Applications
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat cupidatat
+
+Krnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
+
+View Portfolio
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+Penetration Testing
+95%
+
+Network Security
+75%
+
+Ethical Hacking
+90%
+
+Malware Analysis
+70%
+
+Vulnerability Assessment
+80%
+
+Incident Response
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+Your Address Here
+
+<ion-icon name="mail"></ion-icon>
+Email
+your_email@example.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++33 456 7890
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+alt = Jim Morisson Says when the musics over turn off the light
+
+Cybersecurity
+
+Jim Morisson Says when the musics over turn off the light
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022 codewithsadee. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
